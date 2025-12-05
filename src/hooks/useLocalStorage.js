@@ -26,7 +26,3 @@ function useLocalStorage(key, initialValue, userId) {
 }
 
 export default useLocalStorage;
-<<<<<<< HEAD
-
-=======
->>>>>>> db28fe6a665f82c2cc8763a7b8266f0cc1e96600
